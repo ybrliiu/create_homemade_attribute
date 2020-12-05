@@ -1,0 +1,7 @@
+-Ilib
+--color
+--failures
+--recurse
+--merge
+--timer
+--trap
